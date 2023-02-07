@@ -1,0 +1,1 @@
+export const SERVER_ENDPOINT = 'http://10.5.50.189:4000';
